@@ -1,78 +1,37 @@
 {
-  "about": [
+  "menus": [
     {
-      "id": 1,
-      "name": "Kajal Agarwal",
-      "department": "Information Technology",
-      "college": "Indian Institute of Engineering Science and Technology, Shibpur"
-    },
-    {
-      "id": 2,
-      "name": "Kajal Agarwal",
-      "department": "Information Technology",
-      "college": "Indian Institute of Engineering Science and Technology, Shibpur"
-    },
-    {
-      "id": 3,
-      "name": "Kajal Agarwal",
-      "department": "Information Technology",
-      "college": "Indian Institute of Engineering Science and Technology, Shibpur"
-    },
-    {
-      "id": 4,
-      "name": "Kajal Agarwal",
-      "department": "Information Technology",
-      "college": "Indian Institute of Engineering Science and Technology, Shibpur"
-    },
-    {
-      "id": 5,
-      "name": "Kajal Agarwal",
-      "department": "Information Technology",
-      "college": "Indian Institute of Engineering Science and Technology, Shibpur"
+      "name": "berlin",
+      "coverImg": "blob:http://localhost:3000/c9f4ead3-8f17-4c61-8d36-a4211c7a64bb",
+      "id": 1
     }
   ],
-  "subjects": [
+  "venue": [
     {
-      "title": "Data Structures",
-      "active": true,
-      "faculty": "Prasun Ghosal",
-      "notifications": 4,
-      "color": "#9c27b0"
+      "logo": "blob:http://localhost:3000/778be9f0-eab7-44f1-ad48-3fe6d0906ec2",
+      "coverImg": "blob:http://localhost:3000/a07084a0-f201-4cd1-a23a-c07590c8736a",
+      "description": "sss",
+      "address": "wss",
+      "currency": "0",
+      "timeZone": "0",
+      "defaultLang": "0",
+      "email": "email@email.com",
+      "venuType": "0",
+      "name": "new",
+      "id": 1
     },
     {
-      "title": "Operating System",
-      "active": true,
-      "faculty": "Niharika Singh",
-      "notifications": 0,
-      "color": "#ffc107"
-    },
-    {
-      "title": "Algorithms",
-      "active": true,
-      "faculty": "Debojit Mondal",
-      "notifications": 1,
-      "color": "#009688"
-    },
-    {
-      "title": "Web Technologies",
-      "active": true,
-      "faculty": "Shantanu Saurabh",
-      "notifications": 2,
-      "color": "#ff5722"
-    },
-    {
-      "title": "Formal Language and Automata Theory",
-      "active": true,
-      "faculty": "Sudhanshu Sekhar",
-      "notifications": 3,
-      "color": "#03a9f4"
-    },
-    {
-      "title": "Digital Logic and Circuit Design",
-      "active": false,
-      "faculty": "",
-      "notifications": 0,
-      "color": "#9e9e9e"
+      "logo": "blob:http://localhost:3000/1ca27f43-cc64-4757-b546-a28eec33eaf7",
+      "coverImg": "blob:http://localhost:3000/400a009d-582a-4378-a265-1c270afb0f00",
+      "description": "wwww",
+      "address": "wwww",
+      "currency": "0",
+      "timeZone": "0",
+      "defaultLang": "0",
+      "email": "email@gmail.com",
+      "venuType": "0",
+      "name": "amstradam",
+      "id": 2
     }
   ]
 }
