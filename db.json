@@ -60,47 +60,55 @@
     {
       "prices": [
         {
-          "price": "12",
-          "descriptionPrice": "aaaa"
+          "price": "ss",
+          "descriptionPrice": "ss"
         }
       ],
-      "name": "aandy",
-      "description": "sss",
-      "coverImg": "blob:http://localhost:3000/1998f56a-2aa4-426b-afc4-a0d748f433fb",
+      "name": "sadsa",
+      "description": "ss",
+      "coverImg": "blob:http://localhost:3000/d0642dbd-33dc-4cea-881c-027f1c79cee4",
       "category": [
         {
-          "categoryname": "food",
-          "coverImg": "blob:http://localhost:3000/c4165de2-3946-41f7-b509-59ad22d3ff72",
-          "id": 1
-        },
-        {
-          "categoryname": "lunch",
-          "coverImg": "blob:http://localhost:3000/904ff1bd-b198-4a41-95dc-fc77b077f450",
-          "id": 2
+          "categoryname": "drinksss",
+          "coverImg": "blob:http://localhost:3000/542efe10-a4af-449d-99ee-8839ff4f2695",
+          "id": 4
         }
       ],
+      "inStock": {
+        "label": "out of stock",
+        "value": false
+      },
       "customization": [],
-      "id": 8
+      "id": 10
     },
     {
       "prices": [
         {
-          "price": "12",
-          "descriptionPrice": "aandy"
+          "price": "sss",
+          "descriptionPrice": "sss"
         }
       ],
-      "name": "aalu",
-      "description": "sss",
-      "coverImg": "blob:http://localhost:3000/46316bf2-a27a-4e61-b833-c134dc56c23b",
+      "name": "zyxww",
+      "description": "ssss",
+      "coverImg": "blob:http://localhost:3000/6f669b7d-2ffb-4e97-837d-9559975a16c6",
       "category": [
         {
           "categoryname": "lunch",
           "coverImg": "blob:http://localhost:3000/904ff1bd-b198-4a41-95dc-fc77b077f450",
           "id": 2
+        },
+        {
+          "categoryname": "dinner",
+          "coverImg": "blob:http://localhost:3000/8df8a551-3e0d-4ebd-a654-f6ba237540ee",
+          "id": 3
         }
       ],
+      "inStock": {
+        "label": "out of stock",
+        "value": false
+      },
       "customization": [],
-      "id": 9
+      "id": 11
     }
   ]
 }
