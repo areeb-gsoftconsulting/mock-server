@@ -33,5 +33,58 @@
       "name": "amstradam",
       "id": 2
     }
+  ],
+  "categories": [
+    {
+      "categoryname": "sd",
+      "coverImg": "blob:http://localhost:3000/c9e1035b-fbe1-4da9-9ab1-fd3790aa27b0",
+      "id": 4
+    },
+    {
+      "categoryname": "sdasdas",
+      "coverImg": "blob:http://localhost:3000/e4fc9b9e-2e76-4e9c-aa0e-e4c1bb1adc39",
+      "id": 5
+    }
+  ],
+  "items": [
+    {
+      "prices": [
+        {
+          "price": "dd",
+          "descriptionPrice": "ddd"
+        }
+      ],
+      "coverImg": "blob:http://localhost:3000/b6d72bd0-2fe5-42c9-82ac-80b6cbd6f084",
+      "description": "sss",
+      "category": "0",
+      "name": "sss",
+      "customization": [],
+      "id": 2
+    },
+    {
+      "prices": [
+        {
+          "price": "dsf",
+          "descriptionPrice": "sdfsa"
+        }
+      ],
+      "coverImg": "blob:http://localhost:3000/18086170-e271-4e92-bc96-b4ab5ba75028",
+      "description": "dasfds",
+      "category": "0",
+      "name": "dfs",
+      "customization": [
+        {
+          "title": "dsfa",
+          "items": [
+            {
+              "price": "sds",
+              "desc": "sdfas",
+              "preSelect": false
+            }
+          ]
+        }
+      ],
+      "id": 4
+    }
   ]
 }
