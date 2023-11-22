@@ -1,114 +1,111 @@
 {
   "menus": [
     {
-      "name": "berlin",
-      "coverImg": "blob:http://localhost:3000/c9f4ead3-8f17-4c61-8d36-a4211c7a64bb",
+      "name": "Vege Menu",
+      "coverImg": "blob:http://localhost:3000/665df55c-5729-4333-9d4d-98a362ab2674",
       "id": 1
+    },
+    {
+      "name": "non veg menu",
+      "coverImg": "blob:http://localhost:3000/5aa9d87b-4e2e-462f-ba48-b4fc802a9a6a",
+      "id": 2
     }
   ],
   "venue": [
     {
-      "logo": "blob:http://localhost:3000/778be9f0-eab7-44f1-ad48-3fe6d0906ec2",
-      "coverImg": "blob:http://localhost:3000/a07084a0-f201-4cd1-a23a-c07590c8736a",
-      "description": "sss",
-      "address": "wss",
+      "logo": "blob:http://localhost:3000/f1780e99-25c0-4438-821f-5fc5741faa68",
+      "coverImg": "blob:http://localhost:3000/d121cf77-92c9-4aae-abcf-dd47f4839643",
+      "description": "Have food, chill.",
+      "address": "somewhere on earth",
       "currency": "0",
       "timeZone": "0",
       "defaultLang": "0",
-      "email": "email@email.com",
+      "email": "fac@gmail.com",
       "venuType": "0",
-      "name": "new",
+      "name": "Factory Girl",
       "id": 1
-    },
-    {
-      "logo": "blob:http://localhost:3000/1ca27f43-cc64-4757-b546-a28eec33eaf7",
-      "coverImg": "blob:http://localhost:3000/400a009d-582a-4378-a265-1c270afb0f00",
-      "description": "wwww",
-      "address": "wwww",
-      "currency": "0",
-      "timeZone": "0",
-      "defaultLang": "0",
-      "email": "email@gmail.com",
-      "venuType": "0",
-      "name": "amstradam",
-      "id": 2
     }
   ],
   "categories": [
     {
-      "categoryname": "food",
-      "coverImg": "blob:http://localhost:3000/c4165de2-3946-41f7-b509-59ad22d3ff72",
+      "categoryname": "Breakfast",
+      "coverImg": "blob:http://localhost:3000/742df267-fb7f-4204-a464-385e9c2435dc",
       "id": 1
     },
     {
-      "categoryname": "lunch",
-      "coverImg": "blob:http://localhost:3000/904ff1bd-b198-4a41-95dc-fc77b077f450",
+      "categoryname": "Lunch",
+      "coverImg": "blob:http://localhost:3000/d8abf64c-e148-4196-8194-b28f99a2be03",
       "id": 2
     },
     {
-      "categoryname": "dinner",
-      "coverImg": "blob:http://localhost:3000/8df8a551-3e0d-4ebd-a654-f6ba237540ee",
+      "categoryname": "Dinner",
+      "coverImg": "blob:http://localhost:3000/39329667-a62c-442c-bc50-ea75dc800093",
       "id": 3
     },
     {
-      "categoryname": "drinksss",
-      "coverImg": "blob:http://localhost:3000/542efe10-a4af-449d-99ee-8839ff4f2695",
+      "categoryname": "Drinks",
+      "coverImg": "blob:http://localhost:3000/b26832e6-f831-4558-8bab-74d1ad5b6281",
       "id": 4
+    },
+    {
+      "categoryname": "Coco Anjela",
+      "coverImg": "blob:http://localhost:3000/b21cf683-c38d-45a7-8753-730e17a90746",
+      "id": 5
     }
   ],
   "items": [
     {
       "prices": [
         {
-          "price": "ss",
-          "descriptionPrice": "ss"
+          "price": "6.50",
+          "descriptionPrice": "Regular"
         }
       ],
-      "name": "sadsa",
-      "description": "ss",
-      "coverImg": "blob:http://localhost:3000/d0642dbd-33dc-4cea-881c-027f1c79cee4",
+      "name": "Coco Anjela zitronen",
+      "description": "here.....",
+      "coverImg": "blob:http://localhost:3000/9d75435f-e4e0-41ae-b3fb-2c8fdcbc02e6",
       "category": [
         {
-          "categoryname": "drinksss",
-          "coverImg": "blob:http://localhost:3000/542efe10-a4af-449d-99ee-8839ff4f2695",
-          "id": 4
+          "categoryname": "Coco Anjela",
+          "coverImg": "blob:http://localhost:3000/b21cf683-c38d-45a7-8753-730e17a90746",
+          "id": 5
+        },
+        {
+          "categoryname": "Lunch",
+          "coverImg": "blob:http://localhost:3000/d8abf64c-e148-4196-8194-b28f99a2be03",
+          "id": 2
         }
       ],
       "inStock": {
-        "label": "out of stock",
-        "value": false
+        "label": "in stock",
+        "value": true
       },
       "customization": [],
-      "id": 10
+      "id": 1
     },
     {
       "prices": [
         {
-          "price": "sss",
-          "descriptionPrice": "sss"
+          "price": "5.5",
+          "descriptionPrice": "Regular"
         }
       ],
-      "name": "zyxww",
-      "description": "ssss",
-      "coverImg": "blob:http://localhost:3000/6f669b7d-2ffb-4e97-837d-9559975a16c6",
+      "name": "MIXED MUSHROOMS",
+      "description": "here",
+      "coverImg": "blob:http://localhost:3000/79f00787-e6e1-4139-b79f-1d781f0a712e",
       "category": [
         {
-          "categoryname": "lunch",
-          "coverImg": "blob:http://localhost:3000/904ff1bd-b198-4a41-95dc-fc77b077f450",
+          "categoryname": "Lunch",
+          "coverImg": "blob:http://localhost:3000/d8abf64c-e148-4196-8194-b28f99a2be03",
           "id": 2
-        },
-        {
-          "categoryname": "dinner",
-          "coverImg": "blob:http://localhost:3000/8df8a551-3e0d-4ebd-a654-f6ba237540ee",
-          "id": 3
         }
       ],
       "inStock": {
-        "label": "out of stock",
-        "value": false
+        "label": "in stock",
+        "value": true
       },
       "customization": [],
-      "id": 11
+      "id": 2
     }
   ]
 }
