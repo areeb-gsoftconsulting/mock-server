@@ -7,22 +7,22 @@
     },
     {
       "name": "non veg menu",
-      "coverImg": "blob:http://localhost:3000/5aa9d87b-4e2e-462f-ba48-b4fc802a9a6a",
+      "coverImg": "blob:http://localhost:3000/0ea30f3f-0e40-491a-837b-c1a7aadc86cc",
       "id": 2
     }
   ],
   "venue": [
     {
-      "logo": "blob:http://localhost:3000/f1780e99-25c0-4438-821f-5fc5741faa68",
-      "coverImg": "blob:http://localhost:3000/d121cf77-92c9-4aae-abcf-dd47f4839643",
-      "description": "Have food, chill.",
-      "address": "somewhere on earth",
-      "currency": "0",
-      "timeZone": "0",
-      "defaultLang": "0",
-      "email": "fac@gmail.com",
-      "venuType": "0",
       "name": "Amsterdam",
+      "venuType": "restaurat",
+      "email": "helloamsterdam@factorygirl.net",
+      "defaultLang": "English",
+      "timeZone": "Eastern Time Zone (ET)",
+      "currency": "US Dollars",
+      "address": "Saenredamstraat 32, 1072 CH Amsterdam",
+      "description": "some description...",
+      "coverImg": "blob:http://localhost:3000/026518ae-39cc-4d4c-a591-e2c2c3306f94",
+      "logo": "blob:http://localhost:3000/5d05c4f5-d44f-4749-91d9-d51c9ff6d259",
       "id": 1
     }
   ],
