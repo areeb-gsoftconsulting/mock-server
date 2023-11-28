@@ -57,18 +57,31 @@
     {
       "prices": [
         {
-          "price": "6.50",
-          "descriptionPrice": "Regular"
+          "price": "12",
+          "descriptionPrice": "regular coco"
         }
       ],
-      "name": "Coco Anjela zitronen",
-      "description": "here.....",
-      "coverImg": "blob:http://localhost:3000/9d75435f-e4e0-41ae-b3fb-2c8fdcbc02e6",
+      "name": "Coco Anjela",
+      "description": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here is some "
+            },
+            {
+              "text": "details",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "coverImg": "blob:http://localhost:3000/3c02a0a7-5634-44d6-ae65-bee2e736c93b",
       "category": [
         {
-          "categoryname": "Coco Anjela",
-          "coverImg": "blob:http://localhost:3000/b21cf683-c38d-45a7-8753-730e17a90746",
-          "id": 5
+          "categoryname": "Breakfast",
+          "coverImg": "blob:http://localhost:3000/742df267-fb7f-4204-a464-385e9c2435dc",
+          "id": 1
         },
         {
           "categoryname": "Lunch",
@@ -76,27 +89,10 @@
           "id": 2
         }
       ],
-      "inStock": {
-        "label": "in stock",
-        "value": true
-      },
-      "customization": [],
-      "id": 1
-    },
-    {
-      "prices": [
+      "menu": [
         {
-          "price": "5.5",
-          "descriptionPrice": "Regular"
-        }
-      ],
-      "name": "MIXED MUSHROOMS",
-      "description": "here",
-      "coverImg": "blob:http://localhost:3000/79f00787-e6e1-4139-b79f-1d781f0a712e",
-      "category": [
-        {
-          "categoryname": "Lunch",
-          "coverImg": "blob:http://localhost:3000/d8abf64c-e148-4196-8194-b28f99a2be03",
+          "name": "non veg menu",
+          "coverImg": "blob:http://localhost:3000/0ea30f3f-0e40-491a-837b-c1a7aadc86cc",
           "id": 2
         }
       ],
@@ -105,7 +101,7 @@
         "value": true
       },
       "customization": [],
-      "id": 2
+      "id": 3
     }
   ]
 }
